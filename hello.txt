@@ -1,5 +1,5 @@
-hello Git ! hello world! 2222222222
-hello Git ! hello world! 3333333333
+hello Git ! hello world! 22222
+hello Git ! hello world! 33333
 hello Git ! hello world!
 hello Git ! hello world!
 hello Git ! hello world!
@@ -8,5 +8,3 @@ hello Git ! hello world!
 hello Git ! hello world!
 hello Git ! hello world!
 hello Git ! hello world!
-
-
